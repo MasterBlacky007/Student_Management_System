@@ -1,0 +1,415 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|C:\\Users\\Shasani\\source\\repos\\StudentManagement\\studentmanagement\\resultreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\resultreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|C:\\Users\\Shasani\\source\\repos\\StudentManagement\\studentmanagement\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|c:\\users\\shasani\\source\\repos\\studentmanagement\\studentmanagement\\studentreport.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentreport.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|C:\\Users\\Shasani\\source\\repos\\StudentManagement\\studentmanagement\\subjectreport.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\subjectreport.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|C:\\Users\\Shasani\\source\\repos\\StudentManagement\\studentmanagement\\resultsreport.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\resultsreport.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|C:\\Users\\Shasani\\source\\repos\\StudentManagement\\studentmanagement\\studentrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|C:\\Users\\Shasani\\source\\repos\\StudentManagement\\studentmanagement\\studentreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|C:\\Users\\Shasani\\source\\repos\\StudentManagement\\studentmanagement\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|C:\\Users\\Shasani\\source\\repos\\StudentManagement\\studentmanagement\\studentcrystalreport.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentcrystalreport.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|C:\\Users\\Shasani\\source\\repos\\StudentManagement\\studentmanagement\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|C:\\Users\\Shasani\\source\\repos\\StudentManagement\\studentmanagement\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|C:\\Users\\Shasani\\source\\repos\\StudentManagement\\studentmanagement\\reportviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\reportviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|C:\\Users\\Shasani\\source\\repos\\StudentManagement\\studentmanagement\\subjectviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\subjectviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|C:\\Users\\Shasani\\source\\repos\\StudentManagement\\studentmanagement\\studentrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|C:\\Users\\Shasani\\source\\repos\\StudentManagement\\studentmanagement\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|C:\\Users\\Shasani\\source\\repos\\StudentManagement\\studentmanagement\\subjectviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\subjectviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|C:\\Users\\Shasani\\source\\repos\\StudentManagement\\studentmanagement\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|C:\\Users\\Shasani\\source\\repos\\StudentManagement\\studentmanagement\\resultreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\resultreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|C:\\Users\\Shasani\\source\\repos\\StudentManagement\\studentmanagement\\studentreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|C:\\Users\\Shasani\\source\\repos\\StudentManagement\\studentmanagement\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|C:\\Users\\Shasani\\source\\repos\\StudentManagement\\studentmanagement\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|C:\\Users\\Shasani\\source\\repos\\StudentManagement\\studentmanagement\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|C:\\Users\\Shasani\\source\\repos\\StudentManagement\\studentmanagement\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|C:\\Users\\Shasani\\source\\repos\\StudentManagement\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|C:\\Users\\Shasani\\source\\repos\\StudentManagement\\studentmanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86620A09-208B-4850-A8A3-EE51C393BF92}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentReport.rpt",
+              "DocumentMoniker": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\StudentReport.rpt",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentReport.rpt",
+              "ToolTip": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\StudentReport.rpt",
+              "RelativeToolTip": "StudentManagement\\StudentReport.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPESURBVDhPrZRLaFxVHMZ/59w7k8lkJpmZTDJ5m1pJ2iY0JoWA0aKFUK1dtF2I2ampoggiSHAjaHFVRBA3FXSjuJFaqDbFCl1Z00JNMkmahGIe5lHznplM7rxn7sNFHp1JuvQPH/f\u002Bz\u002BX73fP4OPB/lmVZIr9v6XjhzKs9736WP/akWpieHLz63eUP9o8DqPmNq9TjP9r6bGfbYT\u002BKIhEU/A\u002BAfzdijHgrqvVcNn37\u002BvdfxrYia/nflfymrrGp7flTr1w42VaL112Mx1WEz\u002B3Am6dYMkvWspWdfK6zfT0ciW6GNlaSCW1zlyHzgQACkEKQSOXYjKWJ7FMyo\u002BN22jlxrK645\u002BJHl9u7ul9zl/kCu/4DwL0SIJ4kYD2a5MbALFoyy9me9z7tPv9G367tAHB31xQhUOS2sjLN71Y/q2KJ\u002BoCbrpYaOo9W0dVaw6G68uKSkmLHrr8AKIRASoFg\u002BymlJC5jPLDGuBm/zg9b3zIpBgn4SqjakcthQ5GPMfuAIHemKIQgYoSYNv5mSjzkYXKCX\u002BPX\u002BCX\u002BMxO5UeTO7IUoTIJUnJUOxVlZqjgrPcJe5jQtiWFapK0EwXSQgdQAhpKlyCzCMAxua7e4Ev6KSC6EJYwDQLX63NWXwGwD/KLS0Ta9YhGJ5ehP3GQmM4OOQTQVJbapoRs6mBAMD/H\u002BSi9fH7\u002BCoLgQ\u002BM2Hx52ZXM4T1nLVsysZ7\u002Bh8lks/hVA9TYQDc0QDQSyXiTQU0mMZMktpGqob6Xv9YyodFUREvAAo9djClBlf/LPOHbvTeVidaWlwsBzOMjvl59FYK\u002BH5p0mqcaQuMZZ02tUOLh57mxcrTuGyuQ4sWYnqZRvB0cl5IVhorPVWHGkoOe2wq8yuGYRXKxBZP3ZviOTWMk\u002Bl63mzs5e3unsRYvtAVsNxgsPDg2N/3bkFoMxO3GV24p6ZzNkSamnVM7XV5RdOd/hY2zLZ0EySIS/WP0ewe4J8/vInnGs7jyrlXrzWIilGgkODI/e3gXuxGb//G\u002BN3b2C3qZQU22muKaLBb8PpUPAWldN36BJNzlYsQMidiElQ5OOoFQDTCY1UYgshBaYliabAEJIyl4q3xI7fFkA17ZimubfcfB0AAugGbCZgcCbNUsRCURTq/ZLmgE5US7IcirO0EWNxXdtTKqsj84AF96GQiqZb9rnxxXSlXcXRWCFwq3rSXxQLLS5HE\u002BFNLYuRMjIpzcr3hdaXF3bfC4A1PsfI2RO\u002BLzI5/Z14It28Fc\u002BytBYfnZze\u002BHFqbm0opxuPHtzr14b/uJbL9\u002BXXf8LCnE6KaQGDAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-01-16T19:37:01.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "studentreport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\studentreport.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\studentreport.cs",
+              "ToolTip": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\studentreport.cs [Design]",
+              "RelativeToolTip": "StudentManagement\\studentreport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:57:25.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResultReport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\ResultReport.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\ResultReport.cs",
+              "ToolTip": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\ResultReport.cs [Design]",
+              "RelativeToolTip": "StudentManagement\\ResultReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:58:28.972Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Result.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\Result.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Result.cs",
+              "ToolTip": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\Result.cs [Design]",
+              "RelativeToolTip": "StudentManagement\\Result.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:33:14.989Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResultsReport.rpt",
+              "DocumentMoniker": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\ResultsReport.rpt",
+              "RelativeDocumentMoniker": "StudentManagement\\ResultsReport.rpt",
+              "ToolTip": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\ResultsReport.rpt",
+              "RelativeToolTip": "StudentManagement\\ResultsReport.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPESURBVDhPrZRLaFxVHMZ/59w7k8lkJpmZTDJ5m1pJ2iY0JoWA0aKFUK1dtF2I2ampoggiSHAjaHFVRBA3FXSjuJFaqDbFCl1Z00JNMkmahGIe5lHznplM7rxn7sNFHp1JuvQPH/f\u002Bz\u002BX73fP4OPB/lmVZIr9v6XjhzKs9736WP/akWpieHLz63eUP9o8DqPmNq9TjP9r6bGfbYT\u002BKIhEU/A\u002BAfzdijHgrqvVcNn37\u002BvdfxrYia/nflfymrrGp7flTr1w42VaL112Mx1WEz\u002B3Am6dYMkvWspWdfK6zfT0ciW6GNlaSCW1zlyHzgQACkEKQSOXYjKWJ7FMyo\u002BN22jlxrK645\u002BJHl9u7ul9zl/kCu/4DwL0SIJ4kYD2a5MbALFoyy9me9z7tPv9G367tAHB31xQhUOS2sjLN71Y/q2KJ\u002BoCbrpYaOo9W0dVaw6G68uKSkmLHrr8AKIRASoFg\u002BymlJC5jPLDGuBm/zg9b3zIpBgn4SqjakcthQ5GPMfuAIHemKIQgYoSYNv5mSjzkYXKCX\u002BPX\u002BCX\u002BMxO5UeTO7IUoTIJUnJUOxVlZqjgrPcJe5jQtiWFapK0EwXSQgdQAhpKlyCzCMAxua7e4Ev6KSC6EJYwDQLX63NWXwGwD/KLS0Ta9YhGJ5ehP3GQmM4OOQTQVJbapoRs6mBAMD/H\u002BSi9fH7\u002BCoLgQ\u002BM2Hx52ZXM4T1nLVsysZ7\u002Bh8lks/hVA9TYQDc0QDQSyXiTQU0mMZMktpGqob6Xv9YyodFUREvAAo9djClBlf/LPOHbvTeVidaWlwsBzOMjvl59FYK\u002BH5p0mqcaQuMZZ02tUOLh57mxcrTuGyuQ4sWYnqZRvB0cl5IVhorPVWHGkoOe2wq8yuGYRXKxBZP3ZviOTWMk\u002Bl63mzs5e3unsRYvtAVsNxgsPDg2N/3bkFoMxO3GV24p6ZzNkSamnVM7XV5RdOd/hY2zLZ0EySIS/WP0ewe4J8/vInnGs7jyrlXrzWIilGgkODI/e3gXuxGb//G\u002BN3b2C3qZQU22muKaLBb8PpUPAWldN36BJNzlYsQMidiElQ5OOoFQDTCY1UYgshBaYliabAEJIyl4q3xI7fFkA17ZimubfcfB0AAugGbCZgcCbNUsRCURTq/ZLmgE5US7IcirO0EWNxXdtTKqsj84AF96GQiqZb9rnxxXSlXcXRWCFwq3rSXxQLLS5HE\u002BFNLYuRMjIpzcr3hdaXF3bfC4A1PsfI2RO\u002BLzI5/Z14It28Fc\u002BytBYfnZze\u002BHFqbm0opxuPHtzr14b/uJbL9\u002BXXf8LCnE6KaQGDAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-01-16T17:39:36.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentRecord.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\StudentRecord.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentRecord.cs",
+              "ToolTip": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\StudentRecord.cs [Design]",
+              "RelativeToolTip": "StudentManagement\\StudentRecord.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T18:14:26.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubjectReport.rpt",
+              "DocumentMoniker": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\SubjectReport.rpt",
+              "RelativeDocumentMoniker": "StudentManagement\\SubjectReport.rpt",
+              "ToolTip": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\SubjectReport.rpt",
+              "RelativeToolTip": "StudentManagement\\SubjectReport.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPESURBVDhPrZRLaFxVHMZ/59w7k8lkJpmZTDJ5m1pJ2iY0JoWA0aKFUK1dtF2I2ampoggiSHAjaHFVRBA3FXSjuJFaqDbFCl1Z00JNMkmahGIe5lHznplM7rxn7sNFHp1JuvQPH/f\u002Bz\u002BX73fP4OPB/lmVZIr9v6XjhzKs9736WP/akWpieHLz63eUP9o8DqPmNq9TjP9r6bGfbYT\u002BKIhEU/A\u002BAfzdijHgrqvVcNn37\u002BvdfxrYia/nflfymrrGp7flTr1w42VaL112Mx1WEz\u002B3Am6dYMkvWspWdfK6zfT0ciW6GNlaSCW1zlyHzgQACkEKQSOXYjKWJ7FMyo\u002BN22jlxrK645\u002BJHl9u7ul9zl/kCu/4DwL0SIJ4kYD2a5MbALFoyy9me9z7tPv9G367tAHB31xQhUOS2sjLN71Y/q2KJ\u002BoCbrpYaOo9W0dVaw6G68uKSkmLHrr8AKIRASoFg\u002BymlJC5jPLDGuBm/zg9b3zIpBgn4SqjakcthQ5GPMfuAIHemKIQgYoSYNv5mSjzkYXKCX\u002BPX\u002BCX\u002BMxO5UeTO7IUoTIJUnJUOxVlZqjgrPcJe5jQtiWFapK0EwXSQgdQAhpKlyCzCMAxua7e4Ev6KSC6EJYwDQLX63NWXwGwD/KLS0Ta9YhGJ5ehP3GQmM4OOQTQVJbapoRs6mBAMD/H\u002BSi9fH7\u002BCoLgQ\u002BM2Hx52ZXM4T1nLVsysZ7\u002Bh8lks/hVA9TYQDc0QDQSyXiTQU0mMZMktpGqob6Xv9YyodFUREvAAo9djClBlf/LPOHbvTeVidaWlwsBzOMjvl59FYK\u002BH5p0mqcaQuMZZ02tUOLh57mxcrTuGyuQ4sWYnqZRvB0cl5IVhorPVWHGkoOe2wq8yuGYRXKxBZP3ZviOTWMk\u002Bl63mzs5e3unsRYvtAVsNxgsPDg2N/3bkFoMxO3GV24p6ZzNkSamnVM7XV5RdOd/hY2zLZ0EySIS/WP0ewe4J8/vInnGs7jyrlXrzWIilGgkODI/e3gXuxGb//G\u002BN3b2C3qZQU22muKaLBb8PpUPAWldN36BJNzlYsQMidiElQ5OOoFQDTCY1UYgshBaYliabAEJIyl4q3xI7fFkA17ZimubfcfB0AAugGbCZgcCbNUsRCURTq/ZLmgE5US7IcirO0EWNxXdtTKqsj84AF96GQiqZb9rnxxXSlXcXRWCFwq3rSXxQLLS5HE\u002BFNLYuRMjIpzcr3hdaXF3bfC4A1PsfI2RO\u002BLzI5/Z14It28Fc\u002BytBYfnZze\u002BHFqbm0opxuPHtzr14b/uJbL9\u002BXXf8LCnE6KaQGDAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-01-16T21:33:12.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\Home.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Home.cs",
+              "ToolTip": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\Home.cs [Design]",
+              "RelativeToolTip": "StudentManagement\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:29:36.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentCrystalReport.rpt",
+              "DocumentMoniker": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\StudentCrystalReport.rpt",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentCrystalReport.rpt",
+              "ToolTip": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\StudentCrystalReport.rpt",
+              "RelativeToolTip": "StudentManagement\\StudentCrystalReport.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPESURBVDhPrZRLaFxVHMZ/59w7k8lkJpmZTDJ5m1pJ2iY0JoWA0aKFUK1dtF2I2ampoggiSHAjaHFVRBA3FXSjuJFaqDbFCl1Z00JNMkmahGIe5lHznplM7rxn7sNFHp1JuvQPH/f\u002Bz\u002BX73fP4OPB/lmVZIr9v6XjhzKs9736WP/akWpieHLz63eUP9o8DqPmNq9TjP9r6bGfbYT\u002BKIhEU/A\u002BAfzdijHgrqvVcNn37\u002BvdfxrYia/nflfymrrGp7flTr1w42VaL112Mx1WEz\u002B3Am6dYMkvWspWdfK6zfT0ciW6GNlaSCW1zlyHzgQACkEKQSOXYjKWJ7FMyo\u002BN22jlxrK645\u002BJHl9u7ul9zl/kCu/4DwL0SIJ4kYD2a5MbALFoyy9me9z7tPv9G367tAHB31xQhUOS2sjLN71Y/q2KJ\u002BoCbrpYaOo9W0dVaw6G68uKSkmLHrr8AKIRASoFg\u002BymlJC5jPLDGuBm/zg9b3zIpBgn4SqjakcthQ5GPMfuAIHemKIQgYoSYNv5mSjzkYXKCX\u002BPX\u002BCX\u002BMxO5UeTO7IUoTIJUnJUOxVlZqjgrPcJe5jQtiWFapK0EwXSQgdQAhpKlyCzCMAxua7e4Ev6KSC6EJYwDQLX63NWXwGwD/KLS0Ta9YhGJ5ehP3GQmM4OOQTQVJbapoRs6mBAMD/H\u002BSi9fH7\u002BCoLgQ\u002BM2Hx52ZXM4T1nLVsysZ7\u002Bh8lks/hVA9TYQDc0QDQSyXiTQU0mMZMktpGqob6Xv9YyodFUREvAAo9djClBlf/LPOHbvTeVidaWlwsBzOMjvl59FYK\u002BH5p0mqcaQuMZZ02tUOLh57mxcrTuGyuQ4sWYnqZRvB0cl5IVhorPVWHGkoOe2wq8yuGYRXKxBZP3ZviOTWMk\u002Bl63mzs5e3unsRYvtAVsNxgsPDg2N/3bkFoMxO3GV24p6ZzNkSamnVM7XV5RdOd/hY2zLZ0EySIS/WP0ewe4J8/vInnGs7jyrlXrzWIilGgkODI/e3gXuxGb//G\u002BN3b2C3qZQU22muKaLBb8PpUPAWldN36BJNzlYsQMidiElQ5OOoFQDTCY1UYgshBaYliabAEJIyl4q3xI7fFkA17ZimubfcfB0AAugGbCZgcCbNUsRCURTq/ZLmgE5US7IcirO0EWNxXdtTKqsj84AF96GQiqZb9rnxxXSlXcXRWCFwq3rSXxQLLS5HE\u002BFNLYuRMjIpzcr3hdaXF3bfC4A1PsfI2RO\u002BLzI5/Z14It28Fc\u002BytBYfnZze\u002BHFqbm0opxuPHtzr14b/uJbL9\u002BXXf8LCnE6KaQGDAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-01-16T21:27:48.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\login.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\login.cs",
+              "ToolTip": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\login.cs",
+              "RelativeToolTip": "StudentManagement\\login.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA8wBYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:37:12.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\login.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\login.cs",
+              "ToolTip": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\login.cs [Design]",
+              "RelativeToolTip": "StudentManagement\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:26:15.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SubjectViewerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\SubjectViewerForm.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\SubjectViewerForm.cs",
+              "ToolTip": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\SubjectViewerForm.cs [Design]",
+              "RelativeToolTip": "StudentManagement\\SubjectViewerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:25:03.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\StudentRecord.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentRecord.cs",
+              "ToolTip": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\StudentRecord.cs",
+              "RelativeToolTip": "StudentManagement\\StudentRecord.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAYwKkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T18:16:16.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReportViewerForm.cs",
+              "DocumentMoniker": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\ReportViewerForm.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\ReportViewerForm.cs",
+              "ToolTip": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\ReportViewerForm.cs",
+              "RelativeToolTip": "StudentManagement\\ReportViewerForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T20:26:36.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\Home.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Home.cs",
+              "ToolTip": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\Home.cs",
+              "RelativeToolTip": "StudentManagement\\Home.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAkwEoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:10:30.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\Result.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Result.cs",
+              "ToolTip": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\Result.cs",
+              "RelativeToolTip": "StudentManagement\\Result.cs",
+              "ViewState": "AgIAABABAAAAAAAAAAAAACsBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:52:05.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SubjectViewerForm.cs",
+              "DocumentMoniker": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\SubjectViewerForm.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\SubjectViewerForm.cs",
+              "ToolTip": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\SubjectViewerForm.cs",
+              "RelativeToolTip": "StudentManagement\\SubjectViewerForm.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwD4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:25:31.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ResultReport.cs",
+              "DocumentMoniker": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\ResultReport.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\ResultReport.cs",
+              "ToolTip": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\ResultReport.cs",
+              "RelativeToolTip": "StudentManagement\\ResultReport.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwD4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:58:45.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "studentreport.cs",
+              "DocumentMoniker": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\studentreport.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\studentreport.cs",
+              "ToolTip": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\studentreport.cs",
+              "RelativeToolTip": "StudentManagement\\studentreport.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:59:56.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\Register.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Register.cs",
+              "ToolTip": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\Register.cs [Design]",
+              "RelativeToolTip": "StudentManagement\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:23:54.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\Register.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Register.cs",
+              "ToolTip": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\Register.cs",
+              "RelativeToolTip": "StudentManagement\\Register.cs",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAowBsBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:41:03.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Subject.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\Subject.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Subject.cs",
+              "ToolTip": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\Subject.cs [Design]",
+              "RelativeToolTip": "StudentManagement\\Subject.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:31:49.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\Subject.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Subject.cs",
+              "ToolTip": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\Subject.cs",
+              "RelativeToolTip": "StudentManagement\\Subject.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAwwPAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:05:27.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeToolTip": "StudentManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:35:08.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\Form1.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Form1.cs",
+              "ToolTip": "C:\\Users\\Shasani\\source\\repos\\StudentManagement\\StudentManagement\\Form1.cs [Design]",
+              "RelativeToolTip": "StudentManagement\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:50:21.225Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
